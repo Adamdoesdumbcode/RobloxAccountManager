@@ -37,8 +37,7 @@ class RobloxAccount:
         )
 
 # File to store data
-DATA_FILE = "C:\\Users\\adam\\OneDrive\\Desktop\\RobloxAccount\\accounts.json"
-
+DATA_FILE = #add the FULL FILE  PATH to your json file
 # List to store accounts
 accounts = []
 
